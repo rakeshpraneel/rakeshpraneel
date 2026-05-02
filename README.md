@@ -27,22 +27,14 @@
 <br/>
 
 ### 🔭 Currently Working On
-    ▸ Open-source Python packages & ML experiments
-
-### 🌱 Currently Learning
-    ▸ Machine Learning · Deep Learning · MLOps & Model Deployment
+    ▸ Something Interesting 😎
 
 ### 🤝 Open To Collaborate On
-    ▸ Python libraries · DevOps automation · Data Science projects
+    ▸ Python libraries · DevOps automation · ML projects
 
-### 💡 Ask Me About
-    ▸ Python · REST APIs · Token Management · Web Scraping
-
-### ⚡ Fun Fact
-    ▸ I automate everything I do more than twice 🐍 → ⚙️
-
-### 📬 Reach Me At
-    ▸ **[linkedin.com/in/rakeshchandrasekar](https://www.linkedin.com/in/rakeshchandrasekar)**
+### 🤝 Open Source
+    ▸ Token-Yielder: https://github.com/rakeshpraneel/token-yielder
+    ▸ Kafka-Plugin: https://github.com/rakeshpraneel/kafka-plugin
 
 <br/>
 
@@ -78,6 +70,7 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 
 ---
 
@@ -89,6 +82,7 @@
 ![Scrapy](https://img.shields.io/badge/Scrapy-60A839?style=for-the-badge&logo=scrapy&logoColor=white)
 ![Tkinter](https://img.shields.io/badge/Tkinter-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![Requests](https://img.shields.io/badge/Requests-2CA5E0?style=for-the-badge&logo=python&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 
 ---
 
@@ -100,17 +94,21 @@
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=Matplotlib&logoColor=black)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![LLM](https://img.shields.io/badge/LLM-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Text Embedding](https://img.shields.io/badge/Text%20Embedding-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 
 ---
 
-### ☁️ DevOps & Cloud
+### ☁️ DevOps, Cloud & Tech Stacks
 
 ![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2671E5?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Red Hat OpenShift](https://img.shields.io/badge/OpenShift-EE0000?style=for-the-badge&logo=redhatopenshift&logoColor=white)
 ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
+![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
 
 ---
 
@@ -130,7 +128,7 @@
 ![VS Code](https://img.shields.io/badge/VS%20Code-0078d4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![PyPI](https://img.shields.io/badge/PyPI-3775A9?style=for-the-badge&logo=pypi&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Vim](https://img.shields.io/badge/VIM-11AB00?style=for-the-badge&logo=vim&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
 
 ---
 
