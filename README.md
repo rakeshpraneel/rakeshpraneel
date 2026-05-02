@@ -2,7 +2,7 @@
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=32&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&repeat=true&width=750&lines=Hi+%F0%9F%91%8B%2C+I%27m+Rakesh+Chandrasekar;Python+Developer+%7C+DevOps+Enthusiast;Machine+Learning+Explorer;Building+Tools+That+Matter+%F0%9F%94%A7" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=32&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&repeat=true&width=750&lines=Hi+%F0%9F%91%8B%2C+I%27m+Rakesh;Python+Developer+%7C+DevOps+Engineer;Machine+Learning+Explorer;Building+Tools+That+Matter+%F0%9F%94%A7" alt="Typing SVG" />
   </a>
 </h1>
 
@@ -22,7 +22,7 @@
 
 ## 💫 About Me
 
-> *Python developer and DevOps practitioner with a growing passion for Machine Learning. I love building clean, reusable tools and exploring the intersection of automation and intelligence.*
+> *Python developer and DevOps engineer with a growing passion for Machine Learning. I love building clean, reusable tools and exploring the intersection of automation and intelligence.*
 
 <br/>
 
