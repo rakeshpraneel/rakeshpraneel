@@ -130,17 +130,6 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
 
----
-
-## 📦 Featured Project
-
-<a href="https://github.com/rakeshpraneel/token-yielder">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rakeshpraneel&repo=token-yielder&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff" />
-</a>
-<a href="https://github.com/rakeshpraneel/MachineLearning">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rakeshpraneel&repo=MachineLearning&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff" />
-</a>
-
 <br/><br/>
 
 ---
